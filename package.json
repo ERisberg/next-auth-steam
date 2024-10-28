@@ -9,7 +9,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/ERisberg/next-auth-steam"
+    "url": "git+https://github.com/ERisberg/next-auth-steam.git"
   },
   "files": [
     "dist"
@@ -62,5 +62,13 @@
     "vite-plugin-linter": "^2.0.2",
     "vite-plugin-node-polyfills": "0.16.0",
     "vite-plugin-static-copy": "^0.13.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/ERisberg/next-auth-steam/issues"
+  },
+  "homepage": "https://github.com/ERisberg/next-auth-steam#readme",
+  "directories": {
+    "example": "examples"
+  },
+  "author": ""
 }
