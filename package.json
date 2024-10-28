@@ -1,5 +1,5 @@
 {
-  "name": "@hyperplay/next-auth-steam",
+  "name": "@erisberg/next-auth-steam",
   "version": "0.2.5",
   "license": "MIT",
   "description": "Steam authentication provider for next-auth",
@@ -9,7 +9,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/HyperPlay-Gaming/next-auth-steam"
+    "url": "https://github.com/ERisberg/next-auth-steam"
   },
   "files": [
     "dist"
